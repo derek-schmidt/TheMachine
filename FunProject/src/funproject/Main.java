@@ -5,6 +5,8 @@
  * machine will dispense the product then give correct change. If the user added
  * money first, but didn't add enough the machine will prompt him to add more
  * or reselect.
+
+testing this change
  */
 
 package funproject;
